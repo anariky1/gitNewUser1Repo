@@ -40,6 +40,7 @@ public class stepDefinition extends Utils {
 				//RestAssured.baseURI="https://rahulshettyacademy.com/";
 				
 		  System.out.println("Added by indian user");
+		  System.out.println("Added by US user");
 		       
 		       AddPlace addPlace= data.addPlaceBuild(name,language,address);
 		       reqSpecRequest= requestSpecification();
